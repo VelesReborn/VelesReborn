@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VelesReborn
 - 👀 I’m interested in programming, music and 2d graphics.
 - 🌱 I’m currently learning html, css, javascript and computer forensics.
-- 💞️ I’m looking to collaborate on websides about every topic.
+- 💞️ I’m looking to collaborate on websites about every topic.
 - 📫 My e-mail: piotrhryszkiewicz444@gmail.com
